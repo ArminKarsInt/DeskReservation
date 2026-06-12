@@ -1,0 +1,532 @@
+{
+  "count": 25,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "12f7cdf8-5867-4a51-8b9e-7746ca3a9928",
+      "name": "Nr. 1 Visitors",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "6ff43c29-7ec2-4b8f-969b-e8614340ec48",
+      "name": "Nr. 2 Visitors",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "1bc25a28-ff2b-4c84-b5bf-c1069ebf2cdd",
+      "name": "P03",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "7737123b-9e2e-453d-9345-c5ebfa0a2ced",
+      "name": "P04",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "5cdf9388-8b9c-41bb-8760-1375b1db12a6",
+      "name": "P05",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "c16a3972-3c9a-49f3-bba1-900bc0cb1d75",
+      "name": "P06",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "8ef3272c-1ab2-42eb-bb8c-88ad7b93a9bb",
+      "name": "P07",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "8025baa4-a3e0-40d2-99db-2a87f55d6c6e",
+      "name": "P08",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "c5ecab25-0da3-4724-a7a7-aefc4219602f",
+      "name": "P09",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "d7ba0948-9b48-4cb0-b793-b43fe390d420",
+      "name": "P10",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "ceceff38-63aa-49be-a2e3-262e62ee0f9f",
+      "name": "P11",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "f95da275-4d9f-4959-af2e-e878253a1621",
+      "name": "P12",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "3f76aa47-4425-49e7-8863-8751b1226c7e",
+      "name": "P13",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "58cdb2c1-45fa-40bb-a745-fbd7032d10b6",
+      "name": "P14",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "1517ad7c-b9bb-47b1-b037-75fd793244b7",
+      "name": "P15",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "da2f648d-964f-4714-b7a4-73a2d4362ecd",
+      "name": "P16",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "220e3211-e5d4-49e8-89e8-606ed122141e",
+      "name": "P17",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "c0d3c4b6-0a7b-413c-b2e2-90eaa8536a37",
+      "name": "P18",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "6ff34e47-a6ba-47c1-bb42-6e3e693a124b",
+      "name": "P19",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "4417d4f5-32f8-4b41-afb9-c40210b7ad88",
+      "name": "P20",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "0d986e6a-8231-4b7f-aa93-c03fb07a18f9",
+      "name": "P21",
+      "description": "",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "13be6e8d-7ef5-4ac8-b49b-dcddd914b3ba",
+      "name": "P22",
+      "description": "FLEX",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "7650d15d-2b35-443f-9073-4e85d359adf7",
+      "name": "P23",
+      "description": "FLEX",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "6e750888-d220-4f82-ba3f-386bf2aef9be",
+      "name": "P24",
+      "description": "FLEX",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    },
+    {
+      "id": "68cbd399-55f7-4316-85a6-5c1a1e03e6bb",
+      "name": "P25",
+      "description": "FLEX",
+      "active": true,
+      "departments": [],
+      "building": {
+        "id": "9155f1c3-a540-4054-8355-a6a78f6eb167",
+        "name": "Headquarters"
+      },
+      "floor": null,
+      "coord_x": null,
+      "coord_y": null,
+      "users": [],
+      "asset_type": {
+        "id": "85e4b464-9134-497f-a5f5-3b2e4efcd939",
+        "name": "Parking",
+        "icon": "directions_car"
+      },
+      "tz": "Europe/Amsterdam"
+    }
+  ]
+}
