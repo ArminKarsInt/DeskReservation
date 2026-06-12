@@ -1,0 +1,6 @@
+.env
+*.env
+reservations_dump.json
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
